@@ -1,5 +1,24 @@
 # Changelog
 
+## rprojroot 2.1.1.9020 (2026-09-27)
+
+### Chore
+
+- Auto-update from GitHub Actions
+  ([\#262](https://github.com/r-lib/rprojroot/issues/262)).
+
+- Update revdep report from revdep4 run (most, depth 1)
+  ([\#258](https://github.com/r-lib/rprojroot/issues/258)).
+
+### Continuous integration
+
+- Run coverage checks after pkgdown push.
+
+### fledge
+
+- Bump version to 2.0.4.9008
+  ([\#118](https://github.com/r-lib/rprojroot/issues/118)).
+
 ## rprojroot 2.1.1.9019 (2026-09-26)
 
 ### Features
