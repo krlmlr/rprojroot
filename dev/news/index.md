@@ -1,5 +1,12 @@
 # Changelog
 
+## rprojroot 2.1.1.9021 (2026-10-11)
+
+### Chore
+
+- Auto-update from GitHub Actions
+  ([\#264](https://github.com/r-lib/rprojroot/issues/264)).
+
 ## rprojroot 2.1.1.9020 (2026-09-27)
 
 ### Chore
